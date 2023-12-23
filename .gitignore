@@ -4,6 +4,9 @@ PBGet/*-*
 # Prerequisites
 *.d
 
+# Ignore project level plugins for now
+../Plugins
+
 # Compiled Object files
 *.slo
 *.lo
